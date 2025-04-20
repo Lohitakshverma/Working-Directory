@@ -9,3 +9,6 @@ jobs:
         steps:
             - name: "Yoooo" 
               run: echo "Hello The Workflow is sucessfully Executed!"
+            
+            - name: Lohitaksh Ka naaam
+              run: sudo apt-get update | sudo apt-get install htop
